@@ -16,3 +16,5 @@ def coseno(angulo):              # Recibe un ángulo en grados.
     return math.cos(math.radians(angulo))  # Calcula el coseno.
 def tangente(angulo):            # Recibe un ángulo en grados.
     return math.tan(math.radians(angulo))  # Calcula la tangente.
+def exponencial(x):                # Calcula la función exponencial.
+    return math.exp(x)             # Devuelve e elevado a x.
