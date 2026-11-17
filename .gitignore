@@ -13,3 +13,5 @@ __pycache__/
 
 # Configuración local de VS Code
 .vscode/
+
+config.txt
